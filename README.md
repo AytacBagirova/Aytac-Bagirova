@@ -1,6 +1,6 @@
 ### Hi there 👋, Aytac Bagirova
 #### I am a Software Engineering Student
-![I am a Software Engineering Student](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Software Engineering Student]
 
 ## About Me
 

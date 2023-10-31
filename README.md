@@ -1,7 +1,7 @@
 ### Hi there 👋, Aytac Bagirova
 #### I am a Software Engineering Student
 ![I am a Software Engineering Student]
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+GitHub+Page;+Click+image+to+join+our+server)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%CC00FF&lines=Welcome+to+My+GitHub+Page)
 ## About Me
 
 Hello there! 👋 I'm Aytac, a passionate software developer with a love for exploring cities, reading books, and collaborating as part of a team. My journey in the world of coding started with a curiosity for solving complex problems and turning them into user-friendly applications.I enjoy working with languages like Java, HTML, CSS, JavaScript, and Node.js.

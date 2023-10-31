@@ -18,6 +18,7 @@ You can check out my GitHub repositories to see some of my latest projects and c
 ### Get in Touch
 
 📫 You can reach me via email at bagirovaaytac02102004@email.com.
+
 🔗 Connect with me on LinkedIn: https://www.linkedin.com/in/aytac-bagirova-a53062228/
 
 Let's connect, collaborate, and make the coding world even more amazing together! 😄

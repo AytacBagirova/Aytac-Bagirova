@@ -23,7 +23,7 @@ You can check out my GitHub repositories to see some of my latest projects and c
 
 Let's connect, collaborate, and make the coding world even more amazing together! 😄
 
-Skills: JAVA / NODE.JS / JS / HTML / CSS / SQL
+Skills: JAVA / NODE.JS / JS / HTML / CSS / SQL / C# 
 
 - 🔭 I’m currently working on this page. 
 
